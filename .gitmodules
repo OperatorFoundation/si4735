@@ -1,0 +1,12 @@
+[submodule "lib/SI4735"]
+	path = lib/SI4735
+	url = git@github.com:pu2clr/SI4735.git
+[submodule "lib/iota-cpp"]
+	path = lib/iota-cpp
+	url = git@github.com:blanu/iota-cpp.git
+[submodule "lib/ion-cpp"]
+	path = lib/ion-cpp
+	url = git@github.com:OperatorFoundation/ion-cpp.git
+[submodule "lib/TransmissionArduino"]
+	path = lib/TransmissionArduino
+	url = git@github.com:OperatorFoundation/TransmissionArduino.git
